@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/" name="origin"/>
+  <default remote="origin" revision="master"/>
+  <project name="githubtraining/example-submodule.git" path="libs/lib_1" remote="origin"/>
+</manifest>
